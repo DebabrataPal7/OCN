@@ -2,7 +2,7 @@
 
 Code for WACV 2022 Paper "Few-Shot Open-Set Recognition of Hyperspectral Images with Outlier Calibration Network"
 <p>
-<img src="figures/Fig3_ProtoOSR.png" width="800">
+<img src="figures/Architecture.png" width="800">
 </p>
 
 ## Dataset 
