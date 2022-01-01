@@ -31,7 +31,7 @@ Download from (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensin
 Download from (https://hyperspectral.ee.uh.edu/?page_id=459)
 
 ## Source Code
-The codes for meta-training, fine-tuning and meta-testing on 4 benchmark HSI datasets are available in src folder.  The code is configured for 3-way 5-shot open-set recognition.
+The codes for meta-training, fine-tuning and meta-testing on 4 benchmark HSI datasets are available in src folder with name as "OCN_<Dataset_name>".  The code is configured for 3-way 5-shot open-set recognition.
  
 ## Outlier detection result
 
