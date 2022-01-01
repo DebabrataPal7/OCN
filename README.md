@@ -33,7 +33,7 @@ Download from (https://hyperspectral.ee.uh.edu/?page_id=459)
 ## Source Code
 The codes for meta-training, fine-tuning and meta-testing on 4 benchmark HSI datasets are available in src folder.  The code is configured for 3-way 5-shot open-set recognition.
  
-## Unknown Detection Result
+## Outlier detection result
 
 The AUROC comparison of our method agaist other methods is shown  below.
 
