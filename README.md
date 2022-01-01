@@ -10,11 +10,11 @@ We tackle the few-shot open-set recognition (FSOSR) problem in the context of re
 
 ### Feature extractor - R3CBAM and OCN
 
-<img src='Imgs/Fig4_R3CBAN.png' width='900' height='150'>
+<img src='Imgs/Fig4_R3CBAN.png' width='900'>
 
 ### CBAM3D layer
 
-<img src='Imgs/Fig5_cbam3d.png' width='700' height='150'>
+<img src='Imgs/Fig5_cbam3d.png' width='700' height='200'>
 
 ## Prerequisites
 
