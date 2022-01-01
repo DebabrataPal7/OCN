@@ -37,7 +37,7 @@ The codes for meta-training, fine-tuning and meta-testing on 4 benchmark HSI dat
 
 The AUROC comparison of our method agaist other methods is shown  below.
 
-<img src='Imgs/Fig6_AUROC_Comparison.png' width='700' height='200'>
+<img src='Imgs/Fig6_AUROC_Comparison.png' width='900' height='150'>
   
 
 ## Citation
