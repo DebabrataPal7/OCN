@@ -20,7 +20,7 @@ We tackle the few-shot open-set recognition (FSOSR) problem in the context of re
 
 The following packages are required to run the scripts:
 
-- [Tensorflow 2.1](https://www.tensorflow.org/)
+- [Tensorflow 2.x](https://www.tensorflow.org/)
 - [opencv 4.1.0](https://pypi.org/project/opencv-python/)
 - [numpy 1.16.4](https://numpy.org/)
 - [scipy 1.3.0](https://scipy.org/)
