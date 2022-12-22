@@ -59,6 +59,6 @@ If you use any content of this repo for your work, please cite the following bib
 
 
 ## Licence
-MORGAN is released under the MIT license. 
+OCN is released under the MIT license. 
 
 Copyright (c) 2022 Debabrata Pal. All rights reserved.
