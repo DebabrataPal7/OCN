@@ -30,7 +30,7 @@ The following packages are required to run the scripts:
 ## Dataset
 
 ### Indian Pines, Salinas, Pavia University
-Download from (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) 
+Download from  (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) 
 
 ### Houston-2013
 Download from  (https://hyperspectral.ee.uh.edu/?page_id=459)
