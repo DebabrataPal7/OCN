@@ -33,7 +33,7 @@ The following packages are required to run the scripts:
 Download from (http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes) 
 
 ### Houston-2013
-Download from (https://hyperspectral.ee.uh.edu/?page_id=459)
+Download from  (https://hyperspectral.ee.uh.edu/?page_id=459)
 
 ## Source Code
 The codes for meta-training, fine-tuning and meta-testing on 4 benchmark HSI datasets are available in src folder with name as "OCN_<Dataset_name>".  The code is configured for 3-way 5-shot open-set recognition.
